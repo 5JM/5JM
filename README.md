@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=Android&logoColor=3DDC84"/>
+<!-- <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
+
+출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀] -->
+
+<img src="https://img.shields.io/badge/Android-lightgray?style=flat&logo=Android&logoColor=3DDC84"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=5JM)
 
