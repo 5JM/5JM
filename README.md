@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/Android-brightgreen?style=social&logo=Android&logoColor=3DDC84"/>
+<img src="https://img.shields.io/badge/Android-brightgreen?style=flat&logo=Android&logoColor=3DDC84"/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=5JM)
 
