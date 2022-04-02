@@ -14,13 +14,13 @@ I want to do things that can help people with artificial intelligence.
 
 ### Android
 <div align = "center">
-  <img src="https://img.shields.io/badge/Android-white? style=flat&logo=Android&logoColor=3DDC84"/>
+  <img src="https://img.shields.io/badge/Android-white? style=flat-square&logo=Android&logoColor=3DDC84"/>
   
-  <img src="https://img.shields.io/badge/Kotlin-black? style=flat&logo=Kotlin&logoColor=7F52FF"/>
+  <img src="https://img.shields.io/badge/Kotlin-black? style=flat-square&logo=Kotlin&logoColor=7F52FF"/>
   
-  <img src="https://img.shields.io/badge/Java-007396? style=flat&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396? style=flat-square&logo=Java&logoColor=white"/>
   
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 <!--   
   <img src="https://img.shields.io/badge/JetpackCompose-white?style=flat&logo=C%2B%2B&logoColor=4285F4"/> -->
   
@@ -28,11 +28,11 @@ I want to do things that can help people with artificial intelligence.
   
 ### Deep  Learning & others
 <div align = "center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=Google Colab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
   
 </div>
   
