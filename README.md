@@ -4,8 +4,11 @@
 
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀] -->
 
+<div align = "center">
+
 <img src="https://img.shields.io/badge/Android-lightgray?style=flat&logo=Android&logoColor=3DDC84"/>
 
+</div>
 ![trophy](https://github-profile-trophy.vercel.app/?username=5JM)
 
 ![5JM's github stats](https://github-readme-stats.vercel.app/api?username=5JM&show_icons=true)
