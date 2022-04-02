@@ -5,14 +5,19 @@
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀] -->
 
 <div align = "center">
-
-<img src="https://img.shields.io/badge/Android-lightgray?style=flat&logo=Android&logoColor=3DDC84"/>
-
+  <a><img src="https://img.shields.io/badge/Android-lightgray? style=flat&logo=Android&logoColor=3DDC84"/></a>
 </div>
-![trophy](https://github-profile-trophy.vercel.app/?username=5JM)
 
-![5JM's github stats](https://github-readme-stats.vercel.app/api?username=5JM&show_icons=true)
-[![5JM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=5JM&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/5JM)
+<div align = "center">
+![trophy](https://github-profile-trophy.vercel.app/?username=5JM)
+</div>
+  
+<div align = "center">
+  
+  ![5JM's github stats](https://github-readme-stats.vercel.app/api?username=5JM&show_icons=true)
+  [![5JM's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=5JM&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/5JM)
+
+ </div>
 
 
 <!-- **5JM/5JM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
