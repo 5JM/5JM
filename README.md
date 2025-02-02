@@ -10,6 +10,13 @@ I want to do things that can help people with artificial intelligence.
 
 출처: https://eunhee-programming.tistory.com/239 [코드짜는 문과녀] -->
 
+## 📒 Portfolio
+<div align = "center">
+
+  [포트폴리오 다운 링크](https://docs.google.com/presentation/d/1B2L1j-J-DAehV2-UzCgfuuKQjFBF7cdg/edit?usp=sharing&ouid=113261137650555376914&rtpof=true&sd=true)
+
+</div>
+
 ## :satellite: My Skils
 
 ### Android
